@@ -2,7 +2,7 @@
 The goal of this demo is to give you a place to show off your knowledge of the GWT platform and web technologies.
 
 ## Specification
-You will be building a simple app with a navigation bar at the top of the page and a content area below it.  This navigation bar will have links that when clicked will swap out the content below it.  You only need to support the latest build of Chrome and can assume that the minimum browser size will be 768px wide by 768px tall, but could also be expanded to fit a large monitor. [Click Here](https://github.com/AxisMedTech/interview-development-test/blob/master/GWT/GWT%20Developer%20Test.pdf?raw=true) to get the mockup.
+You will be building a simple app with a navigation bar at the top of the page and a content area below it.  This navigation bar will have links that when clicked will swap out the content below it.  You only need to support the latest build of Chrome and can assume that the minimum browser size will be 768px wide by 768px tall, but could also be expanded to fit a large monitor. [Click Here](https://github.com/AxisMedTech/gwt-interview-demo/blob/master/mockup.pdf?raw=true) to get the mockup.
 
 ## Goals
 - URL based navigation
